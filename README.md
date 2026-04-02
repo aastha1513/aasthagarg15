@@ -31,7 +31,7 @@ flowchart LR
     D -->|Retail Dashboard| E[Self-Serve Insights]
     E -->|Superset Starter Kit| F[Team Adoption]
     F -->|Feedback loop| A
-    
+
     style A fill:#E1F5EE,stroke:#0F6E56,color:#0F6E56
     style B fill:#E1F5EE,stroke:#0F6E56,color:#0F6E56
     style C fill:#E1F5EE,stroke:#0F6E56,color:#0F6E56
