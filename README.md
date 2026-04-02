@@ -44,28 +44,28 @@ flowchart LR
 
 ## Projects
 
-### 🛒 [Retail Analytics Dashboard](https://github.com/aasthagarg15/retail-analytics-dashboard)
+### 🛒 [Retail Analytics Dashboard](https://github.com/aastha1513/retail-analytics-dashboard)
 Interactive self-serve analytics platform built on synthetic CPG retail data. Streamlit + DuckDB + Plotly — mirrors the insights platform I built at PDI. Includes a reusable SQL views library and data freshness monitoring.
 
 `Python` `Streamlit` `DuckDB` `SQL` `Plotly`
 
 ---
 
-### 🤖 [AI Requirements Assistant](https://github.com/aasthagarg15/ai-requirements-assistant)
+### 🤖 [AI Requirements Assistant](https://github.com/aastha1513/ai-requirements-assistant)
 Paste a raw stakeholder request → get a structured PRD in seconds. Uses Claude API to extract user stories, acceptance criteria, dependencies, risks, and open questions. Directly demonstrates the core TPM skill: translating ambiguous asks into actionable specs.
 
 `Python` `Claude API` `Streamlit` `Prompt Engineering`
 
 ---
 
-### 📋 [TPM ADO Toolkit](https://github.com/aasthagarg15/tpm-ado-toolkit)
+### 📋 [TPM ADO Toolkit](https://github.com/aastha1513/tpm-ado-toolkit)
 Reusable Azure DevOps templates (epics, features, user stories) + a Python prioritization engine that scores backlog items by impact × urgency × effort and outputs a color-coded Excel report. Built from how I managed 3 engineering squads across 8 quarterly releases.
 
 `Python` `Azure DevOps API` `pandas` `openpyxl` `YAML`
 
 ---
 
-### 📊 [Superset TPM Starter Kit](https://github.com/aasthagarg15/superset-tpm-starter-kit)
+### 📊 [Superset TPM Starter Kit](https://github.com/aastha1513/superset-tpm-starter-kit)
 The internal Superset + Claude Code documentation I built at PDI — made public. SQL snippet library, reusable chart configs, step-by-step guides, and a unique guide on using Claude Code to accelerate self-serve BI. Importable sample dashboard included.
 
 `Apache Superset` `SQL` `Claude Code` `DuckDB` `Markdown`
